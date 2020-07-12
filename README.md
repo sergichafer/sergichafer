@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Just a cat removing it's glasses](https://gph.is/1UOOe4m)
+![Just a cat removing it's glasses](https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif)
 
 Here are some ideas to get you started:
 
