@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Just a cat removing it's glasses](cat.gif)
+![Just a cat removing it's glasses](./cat.gif)
 
 Here are some ideas to get you started:
 
