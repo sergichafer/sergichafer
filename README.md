@@ -4,4 +4,3 @@
 
   - 🔭 I’m currently working at MeetFox
   - 🌱 I’m currently studying to become a data scientist 
-  - 🤔 I’m looking for help with ...
